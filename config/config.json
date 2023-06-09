@@ -3,21 +3,21 @@
     "username": "zaki",
     "password": "12345678",
     "database": "simple_note",
-    "host": "simple-note-balancer-2136567506.ap-southeast-2.elb.amazonaws.com",
+    "host": "db-simple-note.c1xgzqsr454c.ap-southeast-2.rds.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
     "username": "zaki",
     "password": "12345678",
     "database": "simple_note",
-    "host": "simple-note-balancer-2136567506.ap-southeast-2.elb.amazonaws.com",
+    "host": "db-simple-note.c1xgzqsr454c.ap-southeast-2.rds.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
     "username": "zaki",
     "password": "12345678",
     "database": "simple_note",
-    "host": "simple-note-balancer-2136567506.ap-southeast-2.elb.amazonaws.com",
+    "host": "db-simple-note.c1xgzqsr454c.ap-southeast-2.rds.amazonaws.com",
     "dialect": "postgres"
   }
 }
