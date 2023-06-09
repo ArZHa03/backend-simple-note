@@ -2,22 +2,22 @@
   "development": {
     "username": "zaki",
     "password": "12345678",
-    "database": "initial_db",
-    "host": "my-db-instance.c1xgzqsr454c.ap-southeast-2.rds.amazonaws.com",
+    "database": "simple_note",
+    "host": "simple-note-balancer-2136567506.ap-southeast-2.elb.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
     "username": "zaki",
     "password": "12345678",
-    "database": "initial_db",
-    "host": "my-db-instance.c1xgzqsr454c.ap-southeast-2.rds.amazonaws.com",
+    "database": "simple_note",
+    "host": "simple-note-balancer-2136567506.ap-southeast-2.elb.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
     "username": "zaki",
     "password": "12345678",
-    "database": "initial_db",
-    "host": "my-db-instance.c1xgzqsr454c.ap-southeast-2.rds.amazonaws.com",
+    "database": "simple_note",
+    "host": "simple-note-balancer-2136567506.ap-southeast-2.elb.amazonaws.com",
     "dialect": "postgres"
   }
 }
